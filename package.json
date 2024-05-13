@@ -22,7 +22,7 @@
     "@material/mwc-top-app-bar-fixed": "^0.27.0",
     "@simplewebauthn/server": "^8.3.5",
     "base64url": "^3.0.1",
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.4.5",
     "express": "^4.18.2",
     "express-handlebars": "^7.1.2",
     "express-session": "^1.17.3",
