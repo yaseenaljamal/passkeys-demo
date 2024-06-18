@@ -12,7 +12,7 @@
     "emulator": "firebase emulators:start --only firestore --project passkeys-demo --import=./.data --export-on-exit"
   },
   "dependencies": {
-    "@google-cloud/connect-firestore": "^2.0.2",
+    "@google-cloud/connect-firestore": "^3.0.0",
     "@material/mwc-button": "^0.27.0",
     "@material/mwc-fab": "^0.27.0",
     "@material/mwc-icon-button": "^0.27.0",
@@ -23,7 +23,7 @@
     "@simplewebauthn/server": "^8.3.5",
     "base64url": "^3.0.1",
     "dotenv": "^16.3.1",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "express-handlebars": "^7.1.2",
     "express-session": "^1.17.3",
     "express-useragent": "^1.0.15",
@@ -52,7 +52,7 @@
     "css-loader": "^6.8.1",
     "extract-loader": "^5.1.0",
     "file-loader": "^6.2.0",
-    "firebase-tools": "^13.0.2",
+    "firebase-tools": "^13.6.0",
     "sass": "^1.69.5",
     "sass-loader": "^13.3.2",
     "webpack": "^5.89.0",
