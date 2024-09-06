@@ -27,7 +27,7 @@
     "express-handlebars": "^7.1.2",
     "express-session": "^1.17.3",
     "express-useragent": "^1.0.15",
-    "firebase-admin": "^11.11.0",
+    "firebase-admin": "^12.1.1",
     "lit": "^3.0.1",
     "material-components-web": "^14.0.0"
   },
